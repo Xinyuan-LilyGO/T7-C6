@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-27 17:03:50
+ * @LastEditTime: 2024-05-27 17:14:39
  * @License: GPL 3.0
 -->
 <h1 align = "center">T7-C6</h1>
@@ -73,7 +73,7 @@ The T7-C6 is a development board based on the ESP32C6 chip, which can be powered
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |
-| [Original Test V1.0.0](./firmware) |  |  |
+| [Original Test V1.0.0](./firmware) | Original |  |
 | [Original Test V1.0.1](./firmware) | Fix serial port debugging |  |
 
 ### PlatformIO

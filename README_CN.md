@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-27 17:04:04
+ * @LastEditTime: 2024-05-27 17:14:48
  * @License: GPL 3.0
 -->
 <h1 align = "center">T7-C6</h1>
@@ -73,7 +73,7 @@ T7-C6是一款基于ESP32C6芯片的开发板，可由电池供电，板载充�
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |
-| [Original Test V1.0.0](./firmware) |  |  |
+| [Original Test V1.0.0](./firmware) | 初始版本 |  |
 | [Original Test V1.0.1](./firmware) | 修复串口调试 |  |
 
 
