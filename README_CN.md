@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-27 16:45:07
+ * @LastEditTime: 2024-05-27 16:52:58
  * @License: GPL 3.0
 -->
 <h1 align = "center">T7-C6</h1>
@@ -164,6 +164,6 @@ T7-C6是一款基于ESP32C6芯片的开发板，可由电池供电，板载充�
 * [T7-C6_V1.0](./project/T7-C6_V1.0.pdf)
 
 ## 资料
-* [TP4065-4.2V-SOT25-R.](./information/TP4065-4.2V-SOT25-R.pdf)
+* [TP4065-4.2V-SOT25-R](./information/TP4065-4.2V-SOT25-R.pdf)
 
 ## 依赖库

@@ -161,6 +161,6 @@ The T7-C6 is a development board based on the ESP32C6 chip, which can be powered
 * [T7-C6_V1.0](./project/T7-C6_V1.0.pdf)
 
 ## Information
-* [TP4065-4.2V-SOT25-R.](./information/TP4065-4.2V-SOT25-R.pdf)
+* [TP4065-4.2V-SOT25-R](./information/TP4065-4.2V-SOT25-R.pdf)
 
 ## DependentLibraries
