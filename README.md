@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-27 17:14:39
+ * @LastEditTime: 2024-05-27 17:38:06
  * @License: GPL 3.0
 -->
 <h1 align = "center">T7-C6</h1>
@@ -14,7 +14,7 @@
 ## Version iteration:
 | Version                              | Update date                       |
 | :-------------------------------: | :-------------------------------: |
-| T7-C6_V1.0                      | 2023-02-11                         |
+| T7-C6_V1.0                      | 2024-02-11                         |
 
 ## PurchaseLink
 
