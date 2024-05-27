@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-27 16:22:24
+ * @LastEditTime: 2024-05-27 17:03:50
  * @License: GPL 3.0
 -->
 <h1 align = "center">T7-C6</h1>
@@ -66,10 +66,10 @@ The T7-C6 is a development board based on the ESP32C6 chip, which can be powered
 
 | Example | Support IDE And Version| Description | Picture |
 | ------  | ------  | ------ | ------ | 
-| [Battery Voltage Measure](./examples/Battery_Voltage) | `Arduino_V3.0.0-rc3` |  |  |
-| [ESP32 Deep Sleep](./examples/ESP32_Deep_Sleep) | `Arduino_V3.0.0-rc3` |  |  |
-| [Original Test](./examples/Original_Test/) | `Arduino_V3.0.0-rc3` | Product factory original testing |  |
-| [Wifi STA](./examples/Wifi_STA) | `Arduino_V3.0.0-rc3` |  |  |
+| [Battery Voltage Measure](./examples/Battery_Voltage) | `[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
+| [ESP32 Deep Sleep](./examples/ESP32_Deep_Sleep) | `[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
+| [Original Test](./examples/Original_Test/) | `[Arduino IDE][esp32_v3.0.0-rc3]` | Product factory original testing |  |
+| [Wifi STA](./examples/Wifi_STA) | `[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |
