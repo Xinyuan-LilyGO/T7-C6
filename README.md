@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-27 17:38:06
+ * @LastEditTime: 2024-05-28 09:49:47
  * @License: GPL 3.0
 -->
 <h1 align = "center">T7-C6</h1>
@@ -68,13 +68,13 @@ The T7-C6 is a development board based on the ESP32C6 chip, which can be powered
 | ------  | ------  | ------ | ------ | 
 | [Battery Voltage Measure](./examples/Battery_Voltage) | `[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
 | [ESP32 Deep Sleep](./examples/ESP32_Deep_Sleep) | `[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
-| [Original Test](./examples/Original_Test/) | `[Arduino IDE][esp32_v3.0.0-rc3]` | Product factory original testing |  |
+| [Original Test](./examples/Original_Test) | `[Arduino IDE][esp32_v3.0.0-rc3]` | Product factory original testing |  |
 | [Wifi STA](./examples/Wifi_STA) | `[Arduino IDE][esp32_v3.0.0-rc3]` |  |  |
 
 | firmware | Description | Picture |
 | ------  | ------  | ------ |
-| [Original Test V1.0.0](./firmware) | Original |  |
-| [Original Test V1.0.1](./firmware) | Fix serial port debugging |  |
+| [Original Test V1.0.0](./firmware/[T7-C6_V1.0][Original_Test]_firmware_V1.0.0.bin) | Original |  |
+| [Original Test V1.0.1](./firmware/[T7-C6_V1.0][Original_Test]_firmware_V1.0.1.bin) | Fix serial port debugging |  |
 
 ### PlatformIO
 1. Install[VisualStudioCode](https://code.visualstudio.com/Download),Choose installation based on your system type.
