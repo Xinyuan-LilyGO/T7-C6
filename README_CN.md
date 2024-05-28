@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-28 09:50:13
+ * @LastEditTime: 2024-05-28 14:00:39
  * @License: GPL 3.0
 -->
 <h1 align = "center">T7-C6</h1>
